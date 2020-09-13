@@ -1,21 +1,27 @@
 # Kaggle-PyTorch-Baseline
 
 
-## Training and Validation Datasets
+## 1 Load Datasets
 
 
-## Defining the Model (Convolutional Neural Network)
+## 2 Define a Model (CNN)
 
 ### Model
 
 ### Parameters
 
-### Training the Model
 
-## Prediction
+### Save the model
 
-### Testing 
+## 3 Train the Model
 
 
-## Saving and loading the model
+## 4 Test the model
+
+### load the model
+
+### Prediction
+
+
+
 
