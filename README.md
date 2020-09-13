@@ -10,11 +10,9 @@
 
 ### Parameters
 
-
-### Save the model
-
 ## 3 Train the Model
 
+### Save the model
 
 ## 4 Test the model
 
