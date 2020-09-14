@@ -1,27 +1,27 @@
 # Kaggle-PyTorch-Baseline
 
 
+## 1 Library
+
+## 2 Load Datasets
 
 
-## 1 Load Datasets
-
-
-## 2 Define a Model (CNN)
+## 3 Define a Model (CNN)
 
 ### Model
 
 ### Parameters
 
-## 3 Train the Model
+## 4 Train the Model
 
 ### Save the model
 
-## 4 Test the model
+## 5 Test the model
 
 ### load the model
 
 ### Prediction
 
-
+## 6 Submit
 
 
