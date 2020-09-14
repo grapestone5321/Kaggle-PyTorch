@@ -1,7 +1,7 @@
 # Kaggle-PyTorch-Baseline
 
 
-## 1 Library
+## 1 Libraries
 
 ## 2 Load Datasets
 
