@@ -16,11 +16,11 @@
 
 ### Save the model
 
-## 5 Test the model
+## 5 Prediction
 
 ### load the model
 
-### Prediction
+### Test the model
 
 ## 6 Submit
 
