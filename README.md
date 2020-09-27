@@ -27,3 +27,11 @@
 ## 6 Submit
 
 
+# Current Issue
+### --- Takes much time to compute (>9 hours)
+## ideas:
+-> W/ kaggle notebook is required in Testing/Prediction
+
+-> Separate Training from Testing/Prediction
+
+-> W/O kaggle notebook in Training
