@@ -27,7 +27,7 @@
 ## 6 Submit
 
 
-# Current Issue
+# Issues
 ### --- Takes much time to compute (>9 hours)
 ## ideas:
 -> W/ kaggle notebook is required in Testing/Prediction
