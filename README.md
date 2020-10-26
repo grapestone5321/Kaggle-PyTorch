@@ -1,7 +1,3 @@
-
-
-
-
 # Kaggle-PyTorch-Baseline
 
 ## Udacity-deep-learning-v2-pytorch/intro-to-pytorch/
