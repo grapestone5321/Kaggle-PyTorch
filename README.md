@@ -1,23 +1,184 @@
+# Kaggle-PyTorch
+
+
+-------
+
+## PyTorch Tutorials - Complete Beginner Course
+https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4
+
+### Python Engineer: Patrick Loeber
+https://www.youtube.com/c/PythonEngineer/featured
+
+Free Python and Machine Learning Tutorials!
+
+Hi, I'm Patrick. I’m a passionate Software Engineer who loves Machine Learning, Computer Vision, and Data Science. 
+
+I create free content in order to help more people get into those fields. 
+
+If you have any questions, feedback, or comments, just shoot me a message! I am happy to talk to you :)
+
+If you like my content, please subscribe to the channel!
+
+Please check out my website for more information: https://www.python-engineer.com
+
+If you find these videos useful and would like to support my work you can find me on Patreon: https://www.patreon.com/patrickloeber
+
+### 1
+
+5:45
+
+PyTorch Tutorial 01 - Installation
+
+
+### 2
+
+
+18:28
+
+PyTorch Tutorial 02 - Tensor Basics
+
+
+### 3
+
+15:54
+
+PyTorch Tutorial 03 - Gradient Calculation With Autograd
+
+### 4
+
+
+13:13
+
+PyTorch Tutorial 04 - Backpropagation - Theory With Example
+
+### 5
+
+17:31
+
+PyTorch Tutorial 05 - Gradient Descent with Autograd and Backpropagation
+
+### 6
+
+
+14:16
+
+PyTorch Tutorial 06 - Training Pipeline: Model, Loss, and Optimizer
+
+### 7
+
+
+12:11
+
+PyTorch Tutorial 07 - Linear Regression
+
+### 8
+
+18:22
+
+PyTorch Tutorial 08 - Logistic Regression
+
+### 9
+
+15:27
+
+PyTorch Tutorial 09 - Dataset and DataLoader - Batch Training
+
+### 10
+
+
+10:43
+
+PyTorch Tutorial 10 - Dataset Transforms
+
+### 11
+
+
+18:17
+
+PyTorch Tutorial 11 - Softmax and Cross Entropy
+
+
+### 12
+
+10:00
+
+PyTorch Tutorial 12 - Activation Functions
+
+
+### 13
+
+
+21:34
+
+PyTorch Tutorial 13 - Feed-Forward Neural Network
+
+### 14
+
+
+22:07
+
+PyTorch Tutorial 14 - Convolutional Neural Network (CNN)
+
+
+### 15
+
+
+14:55
+
+PyTorch Tutorial 15 - Transfer Learning
+
+### 16
+
+
+25:41
+
+PyTorch Tutorial 16 - How To Use The TensorBoard
+
+### 17
+
+
+18:24
+
+PyTorch Tutorial 17 - Saving and Loading Models
+
+### 18
+
+
+41:52
+
+Create & Deploy A Deep Learning App - PyTorch Model Deployment With Flask & Heroku
+
+
+### 19
+
+38:57
+
+PyTorch RNN Tutorial - Name Classification Using A Recurrent Neural Net
+
+
+### 20
+
+15:52
+
+PyTorch Tutorial - RNN & LSTM & GRU - Recurrent Neural Nets
+
+
+### 21
+
+28:02
+
+PyTorch Lightning Tutorial - Lightweight PyTorch Wrapper For ML Researchers
+
+### 22
+
+13:29
+
+PyTorch LR Scheduler - Adjust The Learning Rate For Better Results
+
+
+-------
+
 # Kaggle-PyTorch-Baseline
-
-## Udacity-deep-learning-v2-pytorch/intro-to-pytorch/
-
-: https://github.com/udacity/deep-learning-v2-pytorch/tree/master/intro-to-pytorch
-
-### Deep Learning with PyTorch
-This repo contains notebooks and related code for Udacity's Deep Learning with PyTorch lesson. This lesson appears in our AI Programming with Python Nanodegree program.
-
-- Part 1: Introduction to PyTorch and using tensors
-- Part 2: Building fully-connected neural networks with PyTorch
-- Part 3: How to train a fully-connected network with backpropagation on MNIST
-- Part 4: Exercise - train a neural network on Fashion-MNIST
-- Part 5: Using a trained network for making predictions and validating networks
-- Part 6: How to save and load trained models
-- Part 7: Load image data with torchvision, also data augmentation
-- Part 8: Use transfer learning to train a state-of-the-art image classifier for dogs and cats
-
-
-
 
 
 
