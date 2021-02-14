@@ -1,5 +1,25 @@
 # Kaggle-PyTorch
 
+-------
+
+
+# Pytorch
+https://pytorch.org/
+
+### SAVING AND LOADING MODELS
+https://pytorch.org/tutorials/beginner/saving_loading_models.html
+
+### ResNet in PyTorch - GitHub
+https://github.com/pytorch/vision/blob/master/torchvision/models/resnet.py
+
+### EfficientNet: Improving Accuracy and Efficiency through AutoML and Model Scaling
+https://ai.googleblog.com/2019/05/efficientnet-improving-accuracy-and.html
+
+## Paper:
+
+### Deep Learning with PyTorch
+https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf
+
 
 -------
 
