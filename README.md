@@ -1,7 +1,7 @@
 # Kaggle-PyTorch
 
 -------
-
+-------
 
 # Pytorch
 https://pytorch.org/
@@ -15,12 +15,23 @@ https://github.com/pytorch/vision/blob/master/torchvision/models/resnet.py
 ### EfficientNet: Improving Accuracy and Efficiency through AutoML and Model Scaling
 https://ai.googleblog.com/2019/05/efficientnet-improving-accuracy-and.html
 
+-------
+
 ## Paper:
 
 ### Deep Learning with PyTorch
 https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf
 
+-------
 
+## Dive into Deep Learning
+https://d2l.ai/d2l-en-pytorch.pdf
+
+
+
+
+
+-------
 -------
 
 ## PyTorch Tutorials - Complete Beginner Course
@@ -197,6 +208,7 @@ PyTorch LR Scheduler - Adjust The Learning Rate For Better Results
 
 
 -------
+-------
 
 # Kaggle-PyTorch-Baseline
 
@@ -287,3 +299,4 @@ When using a non-integer step, such as 0.1, the results will often not be consis
     
     
     
+-------
